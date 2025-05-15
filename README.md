@@ -156,7 +156,8 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 
-![Screenshot 2025-05-13 145240](https://github.com/user-attachments/assets/919daa71-a413-4cf5-a145-4cd71e74c491)
+
+![Screenshot 2025-05-15 210946](https://github.com/user-attachments/assets/596cd607-0164-4f05-bb68-330d775909ae)
 
 
 ## RESULT:
