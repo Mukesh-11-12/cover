@@ -31,10 +31,130 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+```<html>
+<head>
+    <meta name="viewport" content="width=device=width, initial-scale=1.0">
+    <style>
 
+        .bookpage{
+            width: 400px;
+            height: 600px;
+            color: gainsboro;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 20px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            background-image: url("C:\\Users\\admin\\Desktop\\M.PNG");
+            background-size: cover;
+        }
+
+        .insight{
+            color: rgb(247, 162, 5);
+        }
+
+        .hrstyle{
+            width: 100px;
+        }
+
+        .author{
+            display: inline;
+            position: relative;
+            color: rgb(223, 226, 220);
+            top: 230px;
+
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: small;
+        }
+
+        .booktitle{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: larger;
+            text-align: center;
+            position: relative;
+            top: 30px;
+        }
+
+        .id{
+            width: 400px;
+            position: relative;
+            top: 100px;
+        }
+
+        .pub{
+            font-size: medium;
+            position: relative;
+            top: 230px;
+            left: 315px;
+        }
+
+        .ed{
+            color:  rgb(223, 226, 220);
+            font-size: medium;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            position: relative;
+            top: 150px;
+
+        }
+
+        .subtitle{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: large;
+            position: relative;
+            top: 40px;
+        }
+
+        .mypic{
+            position: relative;
+            top: 230px;
+            left: 260px;
+            width: 100px;
+            height: 100px;
+            background-size: cover;
+
+        }
+    </style>
+    <title>BOOK COVER</title>
+</head>
+<body>
+    <div class="bookpage">
+        <div class="insight"> INSIGHT</div>
+        <div class="hrstyle">
+            <hr style="color: white">
+        </div>
+        <div class="booktitle">
+         <h1>"ZERO TO ONE"
+                </h1>
+        </div>
+        <div class="subtitle">
+            <center>
+                HOW TO BUILD THE FUTURE
+            </center>
+        </div>
+        <div class="mypic">
+            <img src="c:\Users\admin\Desktop\MUK.PNG.jpg" width="125" height="140" alt="">
+        </div>
+      
+        <div class="id">
+            <hr style="color: wheat">
+        </div>
+        <div class="author">
+            <p><b> MUKESH D (212224040204)</b></p>
+        </div>
+        <div class="pub">
+            
+        </div>
+        <div class="ed">
+            <b>LIMITED EDITION</b>
+        </div>
+    </div>
+</body>
+
+</html>
+```
 
 ## OUTPUT:
 
+![Screenshot 2025-05-15 211531](https://github.com/user-attachments/assets/d3bfa354-f8a2-4672-bd31-d46eb1f5df02)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
